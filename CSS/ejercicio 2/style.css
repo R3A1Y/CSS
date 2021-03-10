@@ -1,0 +1,71 @@
+#titulo {
+    color: cadetblue;
+}
+
+strong {
+    color: red;
+}
+
+.destacado {
+    color: orange;
+}
+
+#subtitulo {
+    color: blue;
+}
+
+a {
+    color: crimson;
+}
+
+em {
+    color: dodgerblue;
+}
+
+table {
+    border-spacing: 0mm;
+}
+
+table {
+    color: blue;
+}
+
+thead {
+    color: orange;
+}
+
+tfoot {
+    color: red;
+}
+
+tbody .especial {
+    color: orange;
+}
+
+tbody th {
+    color: red;
+}
+
+tbody td {
+    color: darkgreen;
+}
+
+tbody td em{
+    color:darkgreen;
+}
+
+tbody td strong {
+    color: orange;
+}
+
+#adicional {
+    color: olivedrab;
+}
+
+#especial {
+    color: violet;
+}
+
+div a {
+    color: lawngreen;
+}
